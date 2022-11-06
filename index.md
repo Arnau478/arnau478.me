@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Hello! My name is Arnau, I'm a programmer and this is my website.
+Hello! My name is Arnau, I'm a programmer and this is my website. I mainly do OS development, but I talk about pretty much everything there is to talk.
