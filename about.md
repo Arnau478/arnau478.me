@@ -12,7 +12,7 @@ Right now, I am developing [Quark](https://github.com/Arnau478/quark), an open-s
 
 On the past, I've made a few compilers and interpreters. The most successful of all was [Opulus](https://github.com/Arnau478/opulus).
 
-I switched from Windows to Linux on January 2022. Specifically, I now use [Manjaro](https://manjaro.org/) (based on [Arch Linux](https://archlinux.org/)). It really helps me as the main thing I do in my free time is coding!
+I switched from Windows to Linux on January 2022. Specifically, I now use [Arch Linux](https://archlinux.org/). It really helps me as the main thing I do in my free time is coding!
 
 I really like C, as it provides all the necessary tools to build low-level software.
 
